@@ -2058,6 +2058,9 @@ input, select, textarea {
 			line-height: 3em;
 			text-align: center;
 			width: calc(3em + 2px);
+			display: flex;
+			align-items: center;
+			justify-content: center;
 		}
 
 			.icon.major:before {
@@ -3996,4 +3999,8 @@ input, select, textarea {
 
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
+	}
+
+	.fa-react{
+		font-size: 45px;
 	}
