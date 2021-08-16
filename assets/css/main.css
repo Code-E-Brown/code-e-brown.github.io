@@ -2322,6 +2322,7 @@ input, select, textarea {
 
 			ul.icons.major li {
 				padding-right: 3.5em;
+				margin: .8em;
 			}
 
 				@media screen and (max-width: 736px) {
